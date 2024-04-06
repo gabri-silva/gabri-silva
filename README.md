@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabri-silva
-- 👀 I’m interested in programming and hacking
+- 👀 I’m interested in programming and development
 - 🌱 I’m currently learning C, assembly, intel64 hard level
 - 💞️ I’m looking to collaborate on world
 - 📫 How to reach me gabliame0231@gmail.com
